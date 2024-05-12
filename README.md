@@ -8,7 +8,7 @@ Full Stack Developer | Student at S.R.M University
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [atharvgro2003@gmail.com](mailto:atharvgro2003@gmail.com)
-* 🧠  I'm learning Frontend Technologies : JavaScript, Html, CSS, React and DSA
+* 🧠  I'm learning Frontend Technologies: JavaScript, Html, CSS, React and DSA
 * 🤝  I'm open to collaborating on Web Development (Frontend)
 
 ### Skills
