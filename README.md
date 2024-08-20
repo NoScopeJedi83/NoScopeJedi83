@@ -1,4 +1,7 @@
-![Hi, I'm Atharv!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVqejVpbGpmbjVqc2I1d3FqajU1cXBtank1MW11ajh2aWg1dmlrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9HQRIttS5C4Za/giphy.webp)
+<div id="main" align="center">
+<div id="header" align="center">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVqejVpbGpmbjVqc2I1d3FqajU1cXBtank1MW11ajh2aWg1dmlrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9HQRIttS5C4Za/giphy.webp" width="480" height="278" />
+</div>
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atharv Grover
