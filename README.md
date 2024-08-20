@@ -7,13 +7,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atharv Grover
 =====================================================================================================================================
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/atharv-grover-62a16020a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-<div id="badges1">
   <a href="https://leetcode.com/u/atharvgro2003/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
   </a>
