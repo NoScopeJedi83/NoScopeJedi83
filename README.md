@@ -14,10 +14,9 @@ Full Stack Developer | Student at S.R.M University
 * 🧠  I'm learning Frontend Technologies: JavaScript, Html, CSS, React and DSA
 * 🤝  I'm open to collaborating on Web Development (Frontend)
 
-### Skills
+### :hammer_and_wrench: Skills
 
 
-:hammer_and_wrench: Languages and Tools :
  <br><br>
  <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
